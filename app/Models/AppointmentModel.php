@@ -70,8 +70,8 @@ class AppointmentModel extends BaseModel
         }
 
         return $builder->orderBy('appointment_date', 'DESC')
-                      ->orderBy('appointment_time', 'ASC')
-                      ->find();
+                    ->orderBy('appointment_time', 'ASC')
+                    ->find();
     }
 
     /**
