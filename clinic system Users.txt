@@ -1,0 +1,17 @@
+clinic users:->
+
+1/ Admin User:
+Username: admin
+Password: Admin@123
+Email: admin@clinic.com
+----------
+2/ Doctor User:
+Username: doctor
+Password: Doctor@123
+Email: doctor@clinic.com
+---------------------
+3/ Receptionist User:
+Username: receptionist
+Password: Reception@123
+Email: receptionist@clinic.com
+#####################################
